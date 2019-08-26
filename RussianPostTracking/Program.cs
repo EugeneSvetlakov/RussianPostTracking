@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 
 namespace RussianPostTracking
 {
+    public class PostalTracking { }
+
     class Program
     {
         static void Main(string[] args)
